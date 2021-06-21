@@ -16,7 +16,7 @@ export const styles = StyleSheet.create({
     },
 
     content: {
-        marginTop: -60,
+        marginTop: -80,
         paddingHorizontal: 50
     },
 
